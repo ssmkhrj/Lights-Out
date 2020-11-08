@@ -1,0 +1,14 @@
+.Box {
+  width: 5rem;
+  height: 5rem;
+  background-color: #263238;
+  transition: background-color 0.5s ease;
+}
+
+.Box:hover {
+  cursor: pointer;
+}
+
+.Box-lit {
+  background-color: #00bcd4;
+}
